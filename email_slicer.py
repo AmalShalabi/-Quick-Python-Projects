@@ -1,5 +1,5 @@
 def main():
-    print('Welcome to email Splicer !')
+    print('Welcome to email Slicer !')
     email_adress=input("Enter Your Email Adress: ")
 
     (username,domain)=email_adress.split('@')
